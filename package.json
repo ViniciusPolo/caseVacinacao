@@ -1,0 +1,26 @@
+{
+  "name": "casevacinacao",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ViniciusPolo/caseVacinacao.git"
+  },
+  "author": "Vinicius Polo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ViniciusPolo/caseVacinacao/issues"
+  },
+  "homepage": "https://github.com/ViniciusPolo/caseVacinacao#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "express": "^4.18.0",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.19.0",
+    "sequelize-cli": "^6.4.1"
+  }
+}
